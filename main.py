@@ -84,6 +84,6 @@ while True:
         print("Please type a NUMBER")
         print("")
 
-print("Thank you for using WordGame. Report bugs at <GitHub link>")
+print("Thank you for using WordGame. Report bugs at https://github.com/Justrooo/WordGame/issues")
 sleep(2)
 input("Press any key to exit ")
